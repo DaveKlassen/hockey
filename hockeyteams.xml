@@ -1,0 +1,365 @@
+<?xml version="1.0" ?>
+<teams>
+
+	<team>
+		<city>
+			new jersey
+		</city>
+		<name>
+			devils
+		</name>
+		<division>
+			AL
+		</division>		
+	</team>
+
+	<team>
+		<city>
+			new york
+		</city>
+		<name>
+			islanders
+		</name>
+		<division>
+			AL
+		</division>		
+	</team>
+	
+	<team>
+		<city>
+			new york
+		</city>
+		<name>
+			rangers
+		</name>
+		<division>
+			AL
+		</division>		
+	</team>	
+
+	<team>
+		<city>
+			philadelphia
+		</city>
+		<name>
+			flyers
+		</name>
+		<division>
+			AL
+		</division>		
+	</team>
+
+
+	<team>
+		<city>
+			pittsburgh
+		</city>
+		<name>
+			penguins
+		</name>
+		<division>
+			AL
+		</division>		
+	</team>	
+
+	<team>
+		<city>
+			chicago
+		</city>
+		<name>
+			blackhawks
+		</name>
+		<division>
+			CN
+		</division>		
+	</team>	
+
+	<team>
+		<city>
+			columbus
+		</city>
+		<name>
+			blue jackets
+		</name>
+		<division>
+			CN
+		</division>		
+	</team>	
+	
+	<team>
+		<city>
+			detroit
+		</city>
+		<name>
+			red wings
+		</name>
+		<division>
+			CN
+		</division>		
+	</team>	
+	
+	<team>
+		<city>
+			nashville
+		</city>
+		<name>
+			predators
+		</name>
+		<division>
+			CN
+		</division>		
+	</team>	
+
+	<team>
+		<city>
+			st louis
+		</city>
+		<name>
+			blues
+		</name>
+		<division>
+			CN
+		</division>		
+	</team>	
+							
+	<team>
+		<city>
+			boston
+		</city>
+		<name>
+			bruins
+		</name>
+		<division>
+			NE
+		</division>		
+	</team>
+	
+	<team>
+		<city>
+			buffalo
+		</city>
+		<name>
+			sabres
+		</name>
+		<division>
+			NE
+		</division>		
+	</team>
+	
+	<team>
+		<city>
+			montreal
+		</city>
+		<name>
+			canadiens
+		</name>
+		<division>
+			NE
+		</division>		
+	</team>	
+	
+	<team>
+		<city>
+			ottawa
+		</city>
+		<name>
+			senators
+		</name>
+		<division>
+			NE
+		</division>		
+	</team>
+	
+	<team>
+		<city>
+			toronto
+		</city>
+		<name>
+			maple leafs
+		</name>
+		<division>
+			NE
+		</division>		
+	</team>
+			
+	<team>
+		<city>
+			calgary
+		</city>
+		<name>
+			flames
+		</name>
+		<division>
+			NW
+		</division>		
+	</team>
+	
+	<team>
+		<city>
+			colorado
+		</city>
+		<name>
+			avalanche
+		</name>
+		<division>
+			NW
+		</division>		
+	</team>	
+
+	<team>
+		<city>
+			edmonton
+		</city>
+		<name>
+			oilers
+		</name>
+		<division>
+			NW
+		</division>		
+	</team>	
+	
+	<team>
+		<city>
+			minnesota
+		</city>
+		<name>
+			wild
+		</name>
+		<division>
+			NW
+		</division>		
+	</team>	
+	
+	<team>
+		<city>
+			vancouver
+		</city>
+		<name>
+			canucks
+		</name>
+		<division>
+			NW
+		</division>
+	</team>
+
+	<team>
+		<city>
+			atlanta
+		</city>
+		<name>
+			thrashers
+		</name>
+		<division>
+			SE
+		</division>
+	</team>
+	
+	<team>
+		<city>
+			carolina
+		</city>
+		<name>
+			hurricanes
+		</name>
+		<division>
+			SE
+		</division>
+	</team>
+	
+	<team>
+		<city>
+			florida
+		</city>
+		<name>
+			panthers
+		</name>
+		<division>
+			SE
+		</division>
+	</team>
+	
+	<team>
+		<city>
+			tampa bay
+		</city>
+		<name>
+			lightning
+		</name>
+		<division>
+			SE
+		</division>
+	</team>			
+	
+	<team>
+		<city>
+			washington
+		</city>
+		<name>
+			capitals
+		</name>
+		<division>
+			SE
+		</division>
+	</team>		
+	
+	<team>
+		<city>
+			anaheim
+		</city>
+		<name>
+			ducks
+		</name>
+		<division>
+			PC
+		</division>
+	</team>	
+	
+	<team>
+		<city>
+			dallas
+		</city>
+		<name>
+			stars
+		</name>
+		<division>
+			PC
+		</division>
+	</team>	
+	
+	<team>
+		<city>
+			los angeles
+		</city>
+		<name>
+			kings
+		</name>
+		<division>
+			PC
+		</division>
+	</team>	
+	
+	<team>
+		<city>
+			phoenix
+		</city>
+		<name>
+			coyotes
+		</name>
+		<division>
+			PC
+		</division>
+	</team>	
+	
+	<team>
+		<city>
+			san jose
+		</city>
+		<name>
+			sharks
+		</name>
+		<division>
+			PC
+		</division>
+	</team>	
+					
+</teams>
